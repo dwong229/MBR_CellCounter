@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/denise/rosbuild_ws/trial1/build/devel/setup.sh
